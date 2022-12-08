@@ -1,5 +1,6 @@
 # Real-Time-Weather-App
 Create a real-time weather app using JavaScript
+
 Hi Everyone!
 
 Today we're going to create a new web application with JavaScript (Vanilla JavaScript: No Framework).
